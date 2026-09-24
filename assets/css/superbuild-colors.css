@@ -189,5 +189,4 @@ input:focus,
 textarea:focus,
 select:focus {
   border-color: #f28a24 !important;
-  box-shadow: 0 0 0 0.2rem rgba(242, 138, 36, 0.14) !important;
 }
