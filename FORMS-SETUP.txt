@@ -1,0 +1,10 @@
+# Builders website forms
+The contact and article enquiry forms are prepared for Formspree.
+
+Create a Formspree account, choose New Form, then copy the endpoint from the Integration page. Replace YOUR_FORM_ID in contact.html and single.html with the ID from your endpoint, for example:
+https://formspree.io/f/abcd1234
+
+The forms already use POST submission, named fields, required validation and inline success/error messages.
+
+Formspree setup guide:
+https://help.formspree.io/articles/building-your-form/building-an-html-form
