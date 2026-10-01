@@ -2155,9 +2155,9 @@ a:focus {
 }
 
 .footer .newsletter .btn {
-    position: absolute;
-    top: 5px;
-    right: 5px;
+    display: inline-block;
+    position: relative;
+    margin-top: 8px;
     height: 40px;
     padding: 8px 10px;
     font-size: 14px;
